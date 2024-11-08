@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.head{
+    color: #28a745;
+    text-align: center;
+    background-color: #ffff00;
+}
+.upper{
+    display: flex;
+}
+.p1{
+    margin: 25px;
+    font-size: 25px;
+    color: #28a745;
+    font-family: sans-serif;
+    text-align: center;
+}
+.option{
+    padding: 2px;
+}
+#but1{
+    background-color: #28a745;
+    padding: 10px;
+    border: none;
+}
+.para{
+    color: #0000ff;
+}
+#but2{
+    background-color: #dc3545;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    border-radius: 2px;
+}
