@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.form{
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    margin: 30px;
+    padding: 15px ;
+}
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 5px;
+}
+.inp{
+    margin-bottom: 5px;
+}
+input{
+    padding: 5px;
+    margin: 5px 0;
+}
+button{
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(57, 231, 57);
+    border: none;
+}
